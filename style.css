@@ -1,0 +1,41 @@
+.container{
+    font-family: monospace;
+    max-width: 300px;
+    margin: auto;
+    background-color: rgb(134, 25, 25);
+    padding: 20px;
+    border-radius: 10px;
+}
+input{
+    display: block;
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+button{
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+h1{
+    text-align: center;
+}
+
+#logo{
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    background-image: url("/imagens/background.png");
+    background-size: 50px;
+    background-color: tomato;
+}
+img, p{
+    display: inline-block;
+}
+img{
+    width: 24px;
+}
