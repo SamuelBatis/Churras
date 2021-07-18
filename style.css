@@ -5,6 +5,9 @@
     background-color: rgb(134, 25, 25);
     padding: 20px;
     border-radius: 10px;
+    opacity: 95%;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 input{
     display: block;
@@ -29,9 +32,8 @@ h1{
     margin-right: auto;
 }
 body{
-    background-image: url("/imagens/background.png");
-    background-size: 50px;
-    background-color: tomato;
+    background-image: url("/imagens/599.jpg");
+    background-size: cover;
 }
 img, p{
     display: inline-block;
